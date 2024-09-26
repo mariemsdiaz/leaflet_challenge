@@ -1,7 +1,7 @@
 # Earthquake and Tectonic Plates Interactive Map
 
 ## Overview
-This is project that creates an interactive map that displays real-time earthquake data (magnitude 2.5+ from the past 30 days) alongside tectonic plate boundaries using the JavaScript library Leaflet. The map allows users to view, switch, and interact with both datasets on a global scale. It also includes multiple base map options and a control panel to toggle between the different layers.
+This is a project that creates an interactive map that displays real-time earthquake data (magnitude 2.5+ from the past 30 days) alongside tectonic plate boundaries using the JavaScript library Leaflet. The map allows users to view, switch, and interact with both datasets on a global scale. It also includes multiple base map options and a control panel to toggle between the different layers.
 
 ![Eartquake Layer](https://github.com/mariemsdiaz/leaflet_challenge/blob/main/Leaflet-Part-1/Images/Eartquake.png)
 
@@ -19,8 +19,8 @@ This is project that creates an interactive map that displays real-time earthqua
 
 ## Data Sources
 
-Earthquake Data: Fetched from the USGS Earthquake Feed API. The dataset contains global earthquakes of magnitude 2.5+ over the last 30 days.
-Tectonic Plate Boundaries: A local GeoJSON file (PB2002_plates.json) contains the tectonic plate boundary data.
+- Earthquake Data: Fetched from the USGS Earthquake Feed API. The dataset contains global earthquakes of magnitude 2.5+ over the last 30 days.
+- Tectonic Plate Boundaries: A local GeoJSON file (techtonic_plates.json) contains the tectonic plate boundary data.
 
 ## Notes
 
